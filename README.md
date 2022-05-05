@@ -11,5 +11,7 @@ The `src` folder contains files so that you can get your project up and running 
 
 The articles are written in Markdown, and include Front Matter. Depending on the Static Site Generator you use, it is possible that you will have to modify these a little if you wish to use them. 
 
+## Before Running
 
+Install express (node_modules) by typing 'npm install express' in terminal
 
